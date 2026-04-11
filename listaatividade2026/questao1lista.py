@@ -1,0 +1,1 @@
+aleatorio = ["arroz", "12", "celulares", "30", "caderno", "67", "bolsas", "20", "telefone", "18"]

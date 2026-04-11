@@ -1,0 +1,11 @@
+carros= ["fiat", "chevrolet", "ford", "honda"]
+print(carros)
+carros.insert(1, "jeep")
+print(carros)
+carros.pop()
+print(carros)
+carros.append("toyota")
+print(carros)
+print(len(carros))
+a = sorted(carros)
+print(a)
